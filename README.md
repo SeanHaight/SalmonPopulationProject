@@ -4,7 +4,7 @@ Team Members: Sean Haight, Aycin Iplikci-Arodirik, Sayantan Roy, Andrew Staal
 Fall 2023 Erdös Institute Data Science Bootcamp
 
 
-
+## Overview
 We are group Salmon.
 
 Salmon populations on the Pacific Coast of North America have been in decline for the last 40 years.  Yet salmon have important economic, cultural, and environmental impacts.  Indigenous peoples have fished salmon since time immemorial, while commercial and recreational salmon fisheries are worth ~$641 million annually, being a substantial employer in British Columbia.  Negative environmental impacts of declining salmon stocks include the disruption of energy and nutrient transfers between the Pacific Ocean and freshwater rivers, and the disruption of the food chain for exotic salmon predators.
@@ -20,3 +20,12 @@ The data exploration files are contained in [Data_Exploration Folder](https://gi
 
 ### Miscellaneous File
 Miscellaneous files and group members' individual exploratory analysis is contain in ...
+
+## Data Sources
+>Salmon survivals and Zooplankton Biomasses
+
+Perry RI, Young K, Galbraith M, Chandler P, Velez-Espino A, et al. (2021) Zooplankton variability in the Strait of Georgia, Canada, and relationships with the marine survivals of Chinook and Coho salmon. PLOS ONE 16(1): e0245941. https://doi.org/10.1371/journal.pone.0245941
+
+>Sea Levels
+
+Permanent Service for Mean Sea Level (PSMSL), 2023, "Tide Gauge Data", http://www.psmsl.org/data/obtaining/
