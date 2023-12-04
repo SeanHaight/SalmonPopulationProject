@@ -29,3 +29,31 @@ Perry RI, Young K, Galbraith M, Chandler P, Velez-Espino A, et al. (2021) Zoopla
 >Sea Levels
 
 Permanent Service for Mean Sea Level (PSMSL), 2023, "Tide Gauge Data", http://www.psmsl.org/data/obtaining/
+
+>BC population
+
+https://www2.gov.bc.ca/gov/content/data/statistics/people-population-community/population/population-estimates
+
+>WA population
+
+https://ofm.wa.gov/washington-data-research/population-demographics/population-estimates/historical-estimates-april-1-population-and-housing-state-counties-and-cities
+
+>Port of Vancouver cargo data
+
+https://www.portvancouver.com/about-us/statistics/
+
+>NPGO climate index
+
+http://o3d.org/npgo/
+
+>Fraser River flow rates
+
+https://wateroffice.ec.gc.ca/mainmenu/historical_data_index_e.html
+
+>Fraser River water quality
+
+https://open.canada.ca/data/en/dataset/1e0e8033-3113-4297-a813-13ec6f239039
+
+>BC Lightstation Sea Surface Temperature and Salinity Data
+
+https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884
