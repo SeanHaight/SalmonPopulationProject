@@ -13,13 +13,10 @@ Our goal is to study salmon viability, i.e. salmon survival rates, using data sc
 
 ## Repo Organization
 ### Main File
-The main modelling file is ...
+The main modelling file is AllFeatures.ipynb
 
 ### Data Exploration
 The data exploration files are contained in [Data_Exploration Folder](https://github.com/SeanHaight/SalmonPopulationProject/tree/main/Data_Exploration)
-
-### Miscellaneous File
-Miscellaneous files and group members' individual exploratory analysis is contain in ...
 
 ## Data Sources
 >Salmon survivals and Zooplankton Biomasses
